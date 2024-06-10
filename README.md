@@ -1,5 +1,7 @@
 # Scheduling Project
 
+### Damián Jacob Albino Mejía A01246716
+
 ## Descripción del proyecto
 
 El proyecto actual busca establecer una metodología para crear una solución a un programa de producción o scheduling, que consta en la asignación y secuenciación de tareas o trabajos que unos recursos, limitados, tienen que realizar, estableciendo el tiempo en el que inician y terminan las tareas. Específicamente se buscará trabajar en la industria de alimentos y construir una solución para el proceso de producción del pan de molde.
